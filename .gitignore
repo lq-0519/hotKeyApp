@@ -1,0 +1,23 @@
+# macOS and local IDE settings
+.DS_Store
+/.idea/
+/.vscode/
+
+# Swift and app build outputs
+/.build/
+/.swiftpm/
+/build/
+/dist/
+*.dSYM/
+*.dSYM.zip
+
+# Local planning notes
+/design.md
+
+# Runtime data and private signing material
+*.log
+.env
+.env.*
+*.p12
+*.pfx
+*.key
